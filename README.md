@@ -15,7 +15,6 @@
 - 💡 I have worked on various unsupervised learning techniques, including clustering, dimensionality reduction, and anomaly detection. In my most recent project, I developed a new approach to clustering that leverages federated learning to enable multi-view k-means (MVKM) and multi-view fuzzy c-means (MVFCM) addressing multiple clients' multi-view data.
 - My another GitHub account [kpnaga08](https://github.com/kpnaga08) and [patternkps](https://github.com/PatternKPS) are not used anymore but still exists.
 - 「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」 Anyway, I have a Chinese name given by the CYCU, 許蒂娜 (Xǔ dì nà) 😀
-- To be honest, I hate people who speaks a lot but doing nothing 😉. So talk less do more!
 - $${\\color{orange}I \space am \space currently \space on \space the \space2024-2025\space job \space market. \space If \space you \space are \space interested \space in \space me,\space please \space drop \space me \space a \space message.}$$
 
 **Strong Languages:** Matlab, R and Python/TensorFlow
@@ -64,10 +63,11 @@ Name | Completed |  URL | Organizations
 ## ☎️ Contact me:
 
 <p>📫: kristinasinaga41@gmail.com. <br>
-Note: my old email address from yahoo (kristinasinaga57@yahoo.co.id) and gmail (krist.p.sinaga@gmail.com) are no longer active (I forgot my password and disabled to recover 😉). All social media accounts associated with those email addresses aren't used anymore but still exists.</p>
+
+**ALERT:** my old email address from yahoo (kristinasinaga57@yahoo.co.id) and gmail (krist.p.sinaga@gmail.com) are no longer used. All social media accounts associated with those email addresses aren't used anymore but still exists.</p>
 
 
-$${\\color{orange}I've\space stopped \space using \space social \space media \space such\space as \space facebook \space or \space instagram \space over \space than \space a \space year \space now}$$
+$${\\color{orange}ALERT: \space I've\space stopped \space using \space social \space media \space such\space as \space facebook \space or \space instagram \space over \space than \space a \space year \space now.}$$
 
 $${\\color{orange}and \space I \space don't \space miss \space it\space one \space bit.}$$
 
