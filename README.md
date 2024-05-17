@@ -69,7 +69,7 @@ Name | Completed |  URL | Organizations
 
 $${\\color{orange}ALERT: \space I've\space stopped \space using \space social \space media \space such\space as \space facebook \space or \space instagram \space over \space than \space a \space year \space now.}$$
 
-$${\\color{orange}and \space I \space don't \space miss \space it\space one \space bit.}$$
+$${\\color{orange}The \space only \space way \space to \space contact \space me \space is \space by \space using \space gmail.}$$
 
 
 <!-- # <p align="center"> </p> -->
