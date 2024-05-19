@@ -32,19 +32,19 @@ Name | Completed |  URL | Organizations
 
 # Works cited:
 
-- **[Preprint (May 2024)]** **Sinaga, K. P.** Rectified Gaussian kernel multi-view k-means clustering. *arXiv preprint arXiv:2405.05619*.
+- **[Preprint (May 2024)]** **Sinaga, K. P.** [Rectified Gaussian kernel multi-view k-means clustering](https://arxiv.org/abs/2405.05619). *arXiv preprint arXiv:2405.05619*.
   
-- Hussain, I.,  **Sinaga, K. P.**, Yang, M. S.  (2023). Unsupervised multiview fuzzy c-means clustering algorithm. *Electronics*, *12(21)*, 4467. 
+- Hussain, I.,  **Sinaga, K. P.**, Yang, M. S.  (2023). [Unsupervised multiview fuzzy c-means clustering algorithm](https://www.mdpi.com/2079-9292/12/21/4467). *Electronics*, *12(21)*, 4467. 
 
-- Yang, M. S., **Sinaga, K. P.** (2021). Collaborative feature-weighted multi-view fuzzy c-means clustering. *Pattern Recognition*, *119*, 108064.
+- Yang, M. S., **Sinaga, K. P.** (2021). [Collaborative feature-weighted multi-view fuzzy c-means clustering](https://www.sciencedirect.com/science/article/abs/pii/S003132032100251X). *Pattern Recognition*, *119*, 108064.
 
-- **Sinaga, K. P.**, Hussain, I., Yang, M. S.  (2021). Entropy K-means clustering with feature reduction under unknown number of clusters. *IEEE Access*, *9*, pp: 67736-67751.
+- **Sinaga, K. P.**, Hussain, I., Yang, M. S.  (2021). [Entropy K-means clustering with feature reduction under unknown number of clusters](https://ieeexplore.ieee.org/abstract/document/9423951/). *IEEE Access*, *9*, pp: 67736-67751.
 
-- **Sinaga, K. P.**, Yang, M. S.  (2020). Unsupervised K-means clustering algorithm. *IEEE Access*, *8*, pp: 80716-80727.
+- **Sinaga, K. P.**, Yang, M. S.  (2020). [Unsupervised K-means clustering algorithm](https://ieeexplore.ieee.org/abstract/document/9072123/). *IEEE Access*, *8*, pp: 80716-80727.
 
-- Yang, M. S., **Sinaga, K. P.** (2019).  A feature-reduction multi-view k-means clustering algorithm. *IEEE Access*, *7*, pp: 114472-114486.
+- Yang, M. S., **Sinaga, K. P.** (2019).  [A feature-reduction multi-view k-means clustering algorithm](https://ieeexplore.ieee.org/abstract/document/8793138/). *IEEE Access*, *7*, pp: 114472-114486.
 
-- **Sinaga, K. P.**, Hsieh, J. N., Benjamin, J., Yang, M. S. (2018).  Modified relational mountain clustering method. *In International Conference on Artificial Intelligence and Soft Computing*, pp: 690-701.
+- **Sinaga, K. P.**, Hsieh, J. N., Benjamin, J., Yang, M. S. (2018).  [Modified relational mountain clustering method](https://link.springer.com/chapter/10.1007/978-3-319-91253-0_64). *In International Conference on Artificial Intelligence and Soft Computing*, pp: 690-701.
 
 - **[Submitted to IEEE TPAMI (Under review)]** Yang, M. S., **Sinaga, K. P.** Federated multi-view k-means clustering.
 
