@@ -16,7 +16,7 @@
 - My another GitHub account [kpnaga08](https://github.com/kpnaga08) and [patternkps](https://github.com/PatternKPS) are not used anymore but still exists.
 - 「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」 Anyway, I have a Chinese name given by the CYCU, 許蒂娜 (Xǔ dì nà) 😀
 $${\\color{green}I \space am \space currently \space on \space the \space2024-2025\space job \space market \space (worldwide)}$$
-$${\\color{green} (Seeking \space for \space a \space Postdoc\space researcher / \space Research \space scientist / \space Lecturer \space position)}$$
+$${\\color{green} (Seeking \space for \space a \space Postdoc\space researcher / \space Research \space scientist / \space Lecturer \space / Related \space roles)}$$
 $${\\color{green} If \space you \space are \space interested \space in \space me,\space please \space drop \space me \space a \space message.}$$
 
 **Strong Languages:** Matlab, R and Python/TensorFlow
