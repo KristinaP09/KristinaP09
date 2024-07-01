@@ -11,7 +11,7 @@
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=she/her&color=yellow&style=flat-square)
 
 - 📖 Dissertation: Multi-view fuzzy clustering algorithms for multi-view data (In Chinese: 多視圖數據模糊聚類演算法); Advised by [Prof. Miin-Shen Yang](https://scholar.google.com/citations?user=DTrFkOYAAAAJ&hl=zh-TW).
-- 🎮 I am a lifelong learner and driven by community 😀. 
+- 🎮 I am a lifelong learner, not a people pleaser, and always try to avoid people who show off (usually I dont care about it much).
 - 💡 I have worked on various unsupervised learning techniques, including clustering, dimensionality reduction, and anomaly detection. In my most recent project, I developed a new approach to clustering that leverages federated learning to enable multi-view k-means (MVKM) and multi-view fuzzy c-means (MVFCM) addressing multiple clients' multi-view data.
 - My another GitHub account [kpnaga08](https://github.com/kpnaga08) and [patternkps](https://github.com/PatternKPS) are not used anymore but still exists.
 - 「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」 Anyway, I have a Chinese name given by the CYCU, 許蒂娜 (Xǔ dì nà) 😀
