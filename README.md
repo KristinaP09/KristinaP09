@@ -10,14 +10,9 @@
 
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=she/her&color=yellow&style=flat-square)
 
-- 📖 Dissertation: Multi-view fuzzy clustering algorithms for multi-view data (In Chinese: 多視圖數據模糊聚類演算法); Advised by [Prof. Miin-Shen Yang](https://scholar.google.com/citations?user=DTrFkOYAAAAJ&hl=zh-TW).
 - 🎮 I am a lifelong learner, not a people pleaser, and always try to avoid people who show off (usually I dont care about it much).
 - 💡 I have worked on various unsupervised learning techniques, including clustering, dimensionality reduction, and anomaly detection. In my most recent project, I developed a new approach to clustering that leverages federated learning to enable multi-view k-means (MVKM) and multi-view fuzzy c-means (MVFCM) addressing multiple clients' multi-view data.
-- My another GitHub account [kpnaga08](https://github.com/kpnaga08) and [patternkps](https://github.com/PatternKPS) are not used anymore but still exists.
-- 「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」 Anyway, I have a Chinese name given by the CYCU, 許蒂娜 (Xǔ dì nà) 😀
 
-
-**Strong Languages:** Matlab, R and Python/TensorFlow
 
 # Certifications
 
@@ -30,29 +25,6 @@ Name | Completed |  URL | Organizations
 
 ---
 
-# Works cited:
-
-- **[Preprint (May 2024)]** **Sinaga, K. P.** [Rectified Gaussian kernel multi-view k-means clustering](https://arxiv.org/abs/2405.05619). *arXiv preprint arXiv:2405.05619*.
-  
-- Hussain, I.,  **Sinaga, K. P.**, Yang, M. S.  (2023). [Unsupervised multiview fuzzy c-means clustering algorithm](https://www.mdpi.com/2079-9292/12/21/4467). *Electronics*, *12(21)*, 4467. 
-
-- Yang, M. S., **Sinaga, K. P.** (2021). [Collaborative feature-weighted multi-view fuzzy c-means clustering](https://www.sciencedirect.com/science/article/abs/pii/S003132032100251X). *Pattern Recognition*, *119*, 108064.
-
-- **Sinaga, K. P.**, Hussain, I., Yang, M. S.  (2021). [Entropy K-means clustering with feature reduction under unknown number of clusters](https://ieeexplore.ieee.org/abstract/document/9423951/). *IEEE Access*, *9*, pp: 67736-67751.
-
-- **Sinaga, K. P.**, Yang, M. S.  (2020). [Unsupervised K-means clustering algorithm](https://ieeexplore.ieee.org/abstract/document/9072123/). *IEEE Access*, *8*, pp: 80716-80727.
-
-- Yang, M. S., **Sinaga, K. P.** (2019).  [A feature-reduction multi-view k-means clustering algorithm](https://ieeexplore.ieee.org/abstract/document/8793138/). *IEEE Access*, *7*, pp: 114472-114486.
-
-- **Sinaga, K. P.**, Hsieh, J. N., Benjamin, J., Yang, M. S. (2018).  [Modified relational mountain clustering method](https://link.springer.com/chapter/10.1007/978-3-319-91253-0_64). *In International Conference on Artificial Intelligence and Soft Computing*, pp: 690-701.
-
-- **[Submitted to IEEE TPAMI (Under review)]** Yang, M. S., **Sinaga, K. P.** Federated multi-view k-means clustering.
-
-- **[In Manuscript]** Yang, M. S., **Sinaga, K. P.**  Federated weighted multi-view fuzzy c-means.
-
-- **[In Manuscript]** **Sinaga, K. P.**, Yang, M. S.  A globally collaborative multi-view k-means clustering.
-
-- **[etc...]**
 
 
 ### Links
