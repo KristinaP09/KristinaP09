@@ -2,7 +2,7 @@
 
 <!-- # <p align="center"> </p> -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=FFC0CB&random=false&width=435&lines=Hi%20there!;%20I%20am%20Kristina%20P.%20Sinaga&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=FFC0CB&random=false&width=435&lines=Hi%20there!;%20I%20am%20Kristina&center=true&size=27">
   </a>
 </h1>
 
