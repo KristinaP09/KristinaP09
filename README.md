@@ -26,7 +26,5 @@ Name | Completed |  URL | Organizations
 
 $${\\color{red} \space I've\space stopped \space using \space social \space media \space such\space as \space facebook \space or \space instagram \space over \space than \space a \space year \space now.}$$
 
-$${\\color{red}The \space only \space way \space to \space contact \space me \space is \space by \space using \space gmail.}$$
-
 
 
