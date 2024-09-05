@@ -17,12 +17,6 @@ Name | Completed |  URL | Organizations
 ---
 
 
-
-### Links
-
-<a href="https://scholar.google.com/citations?user=bYFMDisAAAAJ&hl=en"><img src="https://user-images.githubusercontent.com/47393421/142145409-04c70c23-71a9-4b8d-b2df-509e7ad658dc.png" alt="scholar-logo" width="25" hspace="5"/></a>   </a><a href="https://orcid.org/0009-0000-6184-829X"><img src="https://user-images.githubusercontent.com/47393421/142146398-bcdbfc40-3646-45ec-ad13-4c41c955f983.png" alt="orcid-logo" width="25" hspace="5"/></a> </a><a href="https://www.researchgate.net/profile/Kristina-Sinaga-3"><img src="https://camo.githubusercontent.com/54ceeb14aaf28eca4931c8c45209b21fa2b21b8f267abcc90815176ed188a2da/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f363137323339332f313733363131392f65353661353635322d363335662d313165332d396635362d3030336164313538373934612e706e67" alt="researchgate-logo" width="25" hspace="5"/></a>
-
-
 ## ☎️ Contact me:
 
 <p>📫: kristinasinaga41@gmail.com. <br>
@@ -30,9 +24,9 @@ Name | Completed |  URL | Organizations
 **ALERT:** my old email address from yahoo (kristinasinaga57@yahoo.co.id) and gmail (krist.p.sinaga@gmail.com) are no longer used. All social media accounts associated with those email addresses aren't used anymore but still exists.</p>
 
 
-$${\\color{orange}ALERT: \space I've\space stopped \space using \space social \space media \space such\space as \space facebook \space or \space instagram \space over \space than \space a \space year \space now.}$$
+$${\\color{red}**ALERT**: \space I've\space stopped \space using \space social \space media \space such\space as \space facebook \space or \space instagram \space over \space than \space a \space year \space now.}$$
 
-$${\\color{orange}The \space only \space way \space to \space contact \space me \space is \space by \space using \space gmail.}$$
+$${\\color{red}The \space only \space way \space to \space contact \space me \space is \space by \space using \space gmail.}$$
 
 
 
