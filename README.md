@@ -24,7 +24,7 @@ Name | Completed |  URL | Organizations
 **ALERT:** my old email address from yahoo (kristinasinaga57@yahoo.co.id) and gmail (krist.p.sinaga@gmail.com) are no longer used. All social media accounts associated with those email addresses aren't used anymore but still exists.</p>
 
 
-$${\\color{red}**ALERT**: \space I've\space stopped \space using \space social \space media \space such\space as \space facebook \space or \space instagram \space over \space than \space a \space year \space now.}$$
+$${\\color{red} \space I've\space stopped \space using \space social \space media \space such\space as \space facebook \space or \space instagram \space over \space than \space a \space year \space now.}$$
 
 $${\\color{red}The \space only \space way \space to \space contact \space me \space is \space by \space using \space gmail.}$$
 
