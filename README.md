@@ -1,17 +1,8 @@
 
 
-<!-- # <p align="center"> </p> -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=FFC0CB&random=false&width=435&lines=Hi%20there!;%20I%20am%20Kristina&center=true&size=27">
-  </a>
-</h1>
 
-
-
-![pronouns](https://img.shields.io/static/v1?label=pronouns&message=she/her&color=yellow&style=flat-square)
-
-- 🎮 I am a lifelong learner, not a people pleaser, and always try to avoid people who show off (usually I dont care about it much).
-- 💡 I have worked on various unsupervised learning techniques, including clustering, dimensionality reduction, and anomaly detection. In my most recent project, I developed a new approach to clustering that leverages federated learning to enable multi-view k-means (MVKM) and multi-view fuzzy c-means (MVFCM) addressing multiple clients' multi-view data.
+- I am a lifelong learner, not a people pleaser, and always try to avoid people who show off (usually I dont care about it much).
+- I have worked on various unsupervised learning techniques, including clustering, dimensionality reduction, and anomaly detection. In my most recent project, I developed a new approach to clustering that leverages federated learning to enable multi-view k-means (MVKM) and multi-view fuzzy c-means (MVFCM) addressing multiple clients' multi-view data.
 
 
 # Certifications
@@ -44,9 +35,4 @@ $${\\color{orange}ALERT: \space I've\space stopped \space using \space social \s
 $${\\color{orange}The \space only \space way \space to \space contact \space me \space is \space by \space using \space gmail.}$$
 
 
-<!-- # <p align="center"> </p> -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=F7B8F2FF&random=false&width=435&lines=Thanks%20for%20stopping%20by;%20Have%20a%20great%20day!👋&center=true&size=27">
-  </a>
-</h1>
 
