@@ -1,7 +1,7 @@
 
 <!-- # <p align="center"> </p> -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=333EFF&random=false&width=435&lines=Hi%20there!;%20I%20am%20Kristina%20P.%20Sinaga&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=0F6351&random=false&width=435&lines=Hi%20there!;%20I%20am%20Kristina%20P.%20Sinaga&center=true&size=27">
   </a>
 </h1>
 
@@ -40,6 +40,6 @@ $${\\color{green} \space I've\space stopped \space using \space social \space me
 
 <!-- # <p align="center"> </p> -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=333EFF&random=false&width=435&lines=Thanks%20for%20stopping%20by;%20Have%20a%20great%20day!👋&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=0F6351&random=false&width=435&lines=Thanks%20for%20stopping%20by;%20Have%20a%20great%20day!👋&center=true&size=27">
   </a>
 </h1>
