@@ -9,6 +9,7 @@
 - Currently, I am a Postdoctoral researcher at ISTI-CNR, Italy. 
 - I am a lifelong learner, not a people pleaser, and always try to avoid people who show off (usually I dont care about it much).
 - I have worked on various unsupervised learning techniques, including clustering, dimensionality reduction, and anomaly detection. In my most recent project, I developed a new approach to clustering that leverages federated learning to enable multi-view k-means (MVKM) and multi-view fuzzy c-means (MVFCM) addressing multiple clients' multi-view data.
+- I am seeking a position for a lecturer/assistant professor/data scientist/researcher, available in fall 2025. If you’re interested in learning more about me, please don’t hesitate to contact me. 
 
 
 ## Certifications
