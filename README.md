@@ -7,7 +7,7 @@
 
  
 - I am a lifelong learner, not a people pleaser, and always try to avoid people who show off (usually I dont care about it much).
-- I am actively applying for a lecturer/assistant professor/data scientist/researcher, available immediately or in fall 2025. If you are interested in more details, check out [**my website**](https://kristinap09.github.io) or my <a href="Curriculum_Vitae.pdf" class="btn-theme btn-theme-md btn-default-bg text-uppercase">**CV**</a><br>  <br>  
+
 
 
 ## 🔭 Research
