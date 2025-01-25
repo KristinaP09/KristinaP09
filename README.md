@@ -37,7 +37,7 @@ Name | Completed |  URL | Organizations
 ## 📨 Contact me: 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kristina-p-sinaga-0ba152309)
-- 🌐 [Website](https://kristinap09.github.io/)
+
 
 
 <!-- # <p align="center"> </p> -->
