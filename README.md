@@ -8,7 +8,7 @@
  
 - I am a lifelong learner, not a people pleaser, and always try to avoid people who show off (usually I dont care about it much).
 
-- - 「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」 Anyway, I have a Chinese name given by the CYCU, 許蒂娜 (Xǔ dì nà) 😀
+- 「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」 Anyway, I have a Chinese name given by the CYCU, 許蒂娜 (Xǔ dì nà) 😀
 
 
 
