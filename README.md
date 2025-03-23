@@ -39,7 +39,7 @@ Name | Completed |  URL | Organizations
 
 
 <p>📫: kristinasinaga41@gmail.com (Primary). <br> <br>
-**Note:** My old Yahoo account (kristinasinaga57@yahoo.co.id) and Gmail account (krist.p.sinaga@gmail.com) are officially retired -- I forgot my passwords, and apparently, I'm too suspicious to prove I'm me 😉.</p>
+<code style="color : red">Note:</code> My old Yahoo account (kristinasinaga57@yahoo.co.id) and Gmail account (krist.p.sinaga@gmail.com) are officially retired -- I forgot my passwords, and apparently, I'm too suspicious to prove I'm me 😉.</p>
 
 
 
