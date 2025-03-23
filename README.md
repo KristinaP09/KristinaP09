@@ -10,6 +10,8 @@
 
 - 「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」 Anyway, I have a Chinese name given by the CYCU, 許蒂娜 (Xǔ dì nà) 😀
 
+- My old personal webpage, hosted via two forgotten and inaccessible GitHub accounts, are still viewable [here](https://patternkps.github.io) and [here](https://kpnaga08.github.io/about/). For my latest work and updates, please continue browsing this new site. 
+
 
 
 ## 🔭 Research
