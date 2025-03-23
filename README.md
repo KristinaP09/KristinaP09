@@ -10,7 +10,7 @@
 
 - 「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」 Anyway, I have a Chinese name given by the CYCU, 許蒂娜 (Xǔ dì nà) 😀
 
-- My old personal webpages, hosted via two forgotten and inaccessible GitHub accounts, are still viewable [here](https://patternkps.github.io) and [here](https://kpnaga08.github.io/about/). For my latest work and updates, please continue browsing this new site. 
+- My **<span style="color: red;">old personal webpages</span>**, hosted via two forgotten and inaccessible GitHub accounts, are still viewable [here](https://patternkps.github.io) and [here](https://kpnaga08.github.io/about/). For my latest work and updates, please continue browsing this new site. 
 
 
 
@@ -39,7 +39,7 @@ Name | Completed |  URL | Organizations
 
 
 <p>📫: kristinasinaga41@gmail.com (Primary). <br> <br>
-Note: My old Yahoo account (kristinasinaga57@yahoo.co.id) and Gmail account (krist.p.sinaga@gmail.com) are officially retired -- I forgot my passwords, and apparently, I'm too suspicious to prove I'm me 😉.</p>
+**<span style="color: red;">Note: My old Yahoo account (kristinasinaga57@yahoo.co.id) and Gmail account (krist.p.sinaga@gmail.com) are officially retired -- I forgot my passwords, and apparently, I'm too suspicious to prove I'm me 😉.</span>**</p>
 
 
 
