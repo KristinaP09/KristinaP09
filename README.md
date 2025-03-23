@@ -37,7 +37,7 @@ Name | Completed |  URL | Organizations
 
 
 <p>📫: kristinasinaga41@gmail.com (Primary). <br>
-Note: my old email address from yahoo (kristinasinaga57@yahoo.co.id) and gmail (krist.p.sinaga@gmail.com) are no longer active (I forgot my password and disabled to recover 😉).</p>
+Note: My old Yahoo account (kristinasinaga57@yahoo.co.id) and Gmail account (krist.p.sinaga@gmail.com) are officially retired -- I forgot my passwords, and apparently, I'm too suspicious to prove I'm me 😉.</p>
 
 
 
