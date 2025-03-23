@@ -36,7 +36,7 @@ Name | Completed |  URL | Organizations
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/kristina-p-sinaga-0ba152309) <a href="https://scholar.google.com/citations?user=yNWQLYAAAAAJ&hl=en&oi=ao"><img src="https://user-images.githubusercontent.com/47393421/142145409-04c70c23-71a9-4b8d-b2df-509e7ad658dc.png" alt="scholar-logo" width="25" hspace="5"/></a> </a><a href="https://orcid.org/0009-0000-6184-829X"><img src="https://user-images.githubusercontent.com/47393421/142146398-bcdbfc40-3646-45ec-ad13-4c41c955f983.png" alt="orcid-logo" width="25" hspace="5"/></a> </a><a href="https://www.researchgate.net/profile/Kristina-Ps-2"><img src="https://img.icons8.com/?size=100&id=JwlJGiL15V81&format=png&color=000000" alt="researchgate-logo" width="25" hspace="5"/></a>
 
 
-<p>📫: kristinasinaga41@gmail.com (Primary). <br>
+<p>📫: kristinasinaga41@gmail.com (Primary). <br> <br>
 Note: My old Yahoo account (kristinasinaga57@yahoo.co.id) and Gmail account (krist.p.sinaga@gmail.com) are officially retired -- I forgot my passwords, and apparently, I'm too suspicious to prove I'm me 😉.</p>
 
 
