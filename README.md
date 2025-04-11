@@ -1,29 +1,35 @@
-
-<!-- # <p align="center"> </p> -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=0F6351&random=false&width=435&lines=Hi%20there!;%20I%20am%20Kristina%20P.%20Sinaga&center=true&size=27">
-  </a>
 </h1>
 
- 
-- I am a lifelong learner, not a people pleaser, and always try to avoid people who show off (usually I dont care about it much).
+---
 
-- 「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」 Anyway, I have a Chinese name given by the CYCU, 許蒂娜 (Xǔ dì nà) 😀
+**Thriving beyond noise. I write code, not circus scripts. Subtle where it counts, and allergic to performative nonsense.**
 
-- My <code style="color : red">old personal webpages</code>, <code style="color : gold">hosted via two forgotten and inaccessible GitHub accounts</code>, are still viewable [here](https://patternkps.github.io) and [here](https://kpnaga08.github.io/about/). For my latest work and updates, please continue browsing this new site. 
+---
 
+- I am a lifelong learner, not a people pleaser.  
+- I avoid performance disguised as competence—and yes, that includes both corporate drama and invisible clown syndicates.  
+- 「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」My Chinese name (given by CYCU) is 許蒂娜 (Xǔ dì nà).  
 
+You can still access my past web traces via:  
+- [Old Site #1](https://patternkps.github.io)  
+- [Old Site #2](https://kpnaga08.github.io/about/)  
+
+For recent updates, you're already in the right place.
+
+---
 
 ## 🔭 Research
 
-- Clustering & Multi-View Learning
-- Federated & Distributed Learning
-- Edge AI & Cyber-Physical Systems
-- Pattern Recognition
+- Clustering & Multi-View Learning  
+- Federated & Distributed Learning  
+- Edge AI & Cyber-Physical Systems  
+- Pattern Recognition  
 
+---
 
 ## 📜 Certifications
-
 
 Name | Completed |  URL | Organizations
 --- | --- | --- | --- | 
@@ -32,21 +38,38 @@ Name | Completed |  URL | Organizations
 
 
 ---
+---
 
-### Links
+## 🎯 Personal Philosophy (Now with extra clarity)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/kristina-p-sinaga-0ba152309) <a href="https://scholar.google.com/citations?user=yNWQLYAAAAAJ&hl=en&oi=ao"><img src="https://user-images.githubusercontent.com/47393421/142145409-04c70c23-71a9-4b8d-b2df-509e7ad658dc.png" alt="scholar-logo" width="25" hspace="5"/></a> </a><a href="https://orcid.org/0009-0000-6184-829X"><img src="https://user-images.githubusercontent.com/47393421/142146398-bcdbfc40-3646-45ec-ad13-4c41c955f983.png" alt="orcid-logo" width="25" hspace="5"/></a> </a><a href="https://www.researchgate.net/profile/Kristina-Ps-2"><img src="https://img.icons8.com/?size=100&id=JwlJGiL15V81&format=png&color=000000" alt="researchgate-logo" width="25" hspace="5"/></a>
+Welcome to my GitHub—a safe zone for logic, clarity, and mentally independent code.
 
+**I don’t ship:**
+- Drama-as-a-Service (DaaS)  
+- Emotionally noisy systems  
+- Invisible influence tactics  
+- Projects that hum in the background and think they’re sentient  
 
-<p>📫: kristinasinaga41@gmail.com (Primary). <br> <br>
-<code style="color : red">Note:</code> My old Yahoo account (kristinasinaga57@yahoo.co.id) and Gmail account (krist.p.sinaga@gmail.com) are officially retired -- I forgot my passwords, and apparently, I'm too suspicious to prove I'm me 😉.</p>
+**I do build:**
+- Robust machine learning systems  
+- Resilient ideas  
+- Clean documentation—because real intelligence doesn’t hide behind confusion  
 
+---
 
+## 🛡️ Current Status
 
+- Documenting what others only dare to whisper  
+- Thriving with structure  
+- Still ignoring clowns, humming upstairs  
 
+---
 
-<!-- # <p align="center"> </p> -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=0F6351&random=false&width=435&lines=Thanks%20for%20stopping%20by;%20Have%20a%20great%20day!👋&center=true&size=27">
-  </a>
-</h1>
+## ☕ Fun Fact
+
+No chairs were dragged in the making of this repository.
+
+---
+
+*“They monitor. I document. They hum. I deploy.”*
+
