@@ -135,7 +135,7 @@ I am open to global opportunities and will be available for new roles starting *
 - Some call me "a lucky person"—I call it creative problem-solving and resilience.
 - I do things my way. I don't listen to crowds or follow the misguidance of clowns.
 - As long as I breathe, I'm open to learning—curiosity is my default mode.
-- Want to connect? My contact information is in my [Resume](https://kristinap09.github.io/pdf/cv/index.html) and [CV](https://kristinap09.github.io/pdf/my_cv.pdf). Take a look and figure it out yourself.
+- Want to connect? Reach me at kristinapestaria.sinaga@isti.cnr.ir or neuralglowai@gmail.com for collaboration opportunities.
 - AI makes me accidentally smart in many ways (and I embrace it).
 
 ---
@@ -144,14 +144,14 @@ I am open to global opportunities and will be available for new roles starting *
 
 - Documenting what others only dare to whisper  
 - Thriving with structure  
-- Still ignoring clowns, humming upstairs  
+- Building solutions, not noise
 
 ---
 
 ## ☕ Fun Fact
 
-No chairs were dragged in the making of this repository.
+I write code, not circus scripts. Logic over performance art.
 
 ---
 
-<p align="center"><em>"They monitor. I document. They hum. I deploy."</em></p>
+<p align="center"><em>"They monitor. I document. They hum. I code."</em></p>
