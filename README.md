@@ -21,7 +21,6 @@
 ---
 
 ## 📚 Table of Contents
-
 - [👤 About Me](#-about-me)
 - [🔭 Research](#-research)
 - [🛠️ Skills](#%EF%B8%8F-skills)
@@ -39,10 +38,8 @@
 - Lifelong learner, driven by curiosity—not by applause.
 - Dodging all the fake talent shows—including corporate drama and those sneaky invisible clown squads—because real skill doesn’t need a spotlight.
 - 「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」Chinese name (given by CYCU): 許蒂娜 (Xǔ dì nà)  
-
 Past web traces:  
-[Old Site #1](https://patternkps.github.io) | [Old Site #2](https://kpnaga08.github.io/about/)
-
+[Old Site #1](https://patternkps.github.io) | [Old Site #2](https://kpnaga08.github.io/about/)  
 For recent updates, you're already in the right place.
 
 ---
@@ -59,19 +56,20 @@ For recent updates, you're already in the right place.
 ## 🛠️ Skills
 
 ### Programming Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)  
 
 ### Proficiency
 
-- Machine Learning
-- Data Analysis
-- Edge AI
-- Pattern Recognition
+- Machine Learning  
+- Data Analysis  
+- Edge AI  
+- Pattern Recognition  
 
 ---
 
@@ -102,8 +100,7 @@ For recent updates, you're already in the right place.
 
 ## 🌍 Availability
 
-I am open to global opportunities and will be available for new roles starting **October 2025**. If you are looking for expertise in machine learning, edge AI, or distributed systems, feel free to connect!
-
+I am open to global opportunities and will be available for new roles starting **October 2025**. If you are looking for expertise in machine learning, edge AI, or distributed systems, feel free to connect!  
 > **For organizations interested in learning more about my background, please refer to my [Resume](https://kristinap09.github.io/pdf/cv/index.html) & [CV](https://kristinap09.github.io/pdf/my_cv.pdf).**
 
 ---
@@ -111,18 +108,16 @@ I am open to global opportunities and will be available for new roles starting *
 ## 🎯 Personal Philosophy (Now with extra clarity)
 
 <div align="center">
-  
-> ### Welcome to my GitHub—a safe zone for logic, clarity, and mentally independent code.
-  
+<strong>Welcome to my GitHub—a safe zone for logic, clarity, and mentally independent code.</strong>
 </div>
 
-**I don't ship:**
+**I don't ship:**  
 - Drama-as-a-Service (DaaS)  
 - Emotionally noisy systems  
 - Invisible influence tactics  
 - Projects that hum in the background and think they're sentient  
 
-**I do build:**
+**I do build:**  
 - Robust machine learning systems  
 - Resilient ideas  
 - Clean documentation—because real intelligence doesn't hide behind confusion  
@@ -131,19 +126,35 @@ I am open to global opportunities and will be available for new roles starting *
 
 ## 🌟 What Sets Me Apart
 
-- Even when resources are limited (often not by my choice), I always find a way out—never getting trapped in the super-bored circles of "org" life.
-- Some might think I just got lucky, but trust me, it’s years of hard work, creative problem-solving, and a serious amount of stubbornness.
-- I follow my own path and don’t give in to popular opinion or misleading influences.
-- I like to build on what I already know and make thoughtful adjustments to better suit new ideas, challenges, and situations as they arise.
-- If you want to connect, please note that none of my personal email addresses are currently active. However, you can reach me for collaboration opportunities at my institutional email: kristinapestaria.sinaga@isti.cnr.it
+- Even when resources are limited (often not by my choice), I always find a way out—never getting trapped in the super-bored circles of "org" life.  
+- Some might think I just got lucky, but trust me, it’s years of hard work, creative problem-solving, and a serious amount of stubbornness.  
+- I follow my own path and don’t give in to popular opinion or misleading influences.  
+- I like to build on what I already know and make thoughtful adjustments to better suit new ideas, challenges, and situations as they arise.  
+- If you want to connect, please note that none of my personal email addresses are currently active. However, you can reach me for collaboration opportunities at my institutional email: **[kristinapestaria.sinaga@isti.cnr.it](mailto:kristinapestaria.sinaga@isti.cnr.it)**  
 
 ---
 
-## 🛡️ Current Status
+## 🛡️ Current Status  
 
 - Documenting what others only dare to whisper  
 - Thriving with structure  
-- Building solutions, not noise
+- Building solutions, not noise  
+
+**Guest Editor Role:**  
+I’m co-editing a Special Issue on <mark>**Clustered Federated Learning for Networks** in the Cybersecurity section of *Future Internet*</mark> with Prof. Miin-Shen Yang ([website](https://msyang3.wixsite.com/msyang/english)).  
+We welcome innovative submissions on:  
+- Clustering algorithms  
+- Privacy & security  
+- System optimization  
+- Network applications  
+- Performance analysis  
+
+📅 **Deadline:** 20 August 2026  
+👉 Details & submissions: [Special Issue](https://www.mdpi.com/journal/futureinternet/special_issues/1UP93P6G94)  
+
+<p align="center">
+  <img src="https://kristinap09.github.io/assets/images/MDPI-FI.jpg" alt="Special Issue Cover" width="600" />
+</p>
 
 ---
 
