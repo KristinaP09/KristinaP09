@@ -132,9 +132,9 @@ I am open to global opportunities and will be available for new roles starting *
 ## 🌟 What Sets Me Apart
 
 - Even when resources are limited (often not by my choice), I always find a way out—never getting trapped in the super-bored circles of "org" life.
-- Some call me "a lucky person"—I call it creative problem-solving and resilience.
-- I do things my way. I don't listen to crowds or follow the misguidance of clowns.
-- As long as I breathe, I'm open to learning—curiosity is my default mode.
+- Some might think I just got lucky, but trust me, it’s years of hard work, creative problem-solving, and a serious amount of stubbornness.
+- I follow my own path and don’t give in to popular opinion or misleading influences.
+- I like to build on what I already know and make thoughtful adjustments to better suit new ideas, challenges, and situations as they arise.
 - If you want to connect, please note that none of my email addresses are currently active. Therefore, I am not available via email for collaboration opportunities at this time.
 
 ---
@@ -149,7 +149,7 @@ I am open to global opportunities and will be available for new roles starting *
 
 ## ☕ Fun Fact
 
-I write code, not circus scripts. Logic over performance art.
+I write code, not circus acts—logic’s my jam; drama’s not on the playlist. So if you come for small talk, prepare to be debugged!
 
 ---
 
