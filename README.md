@@ -36,8 +36,8 @@
 
 ## 👤 About Me
 
-- Lifelong learner, not a people pleaser  
-- Avoiding performance disguised as competence (including corporate drama and invisible clown syndicates)  
+- Lifelong learner, driven by curiosity—not by applause.
+- Dodging all the fake talent shows—including corporate drama and those sneaky invisible clown squads—because real skill doesn’t need a spotlight.
 - 「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」Chinese name (given by CYCU): 許蒂娜 (Xǔ dì nà)  
 
 Past web traces:  
