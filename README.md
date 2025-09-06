@@ -135,8 +135,7 @@ I am open to global opportunities and will be available for new roles starting *
 - Some call me "a lucky person"—I call it creative problem-solving and resilience.
 - I do things my way. I don't listen to crowds or follow the misguidance of clowns.
 - As long as I breathe, I'm open to learning—curiosity is my default mode.
-- Want to connect? Reach me at kristinapestaria.sinaga@isti.cnr.ir or ndkristinaps25@gmail.com for collaboration opportunities (The email address kristinasinaga41@gmail.com is no longer under my authority. Please do not use it to contact me).
-- AI makes me accidentally smart in many ways (and I embrace it).
+- If you want to connect, please note that none of my email addresses are currently active. Therefore, I am not available via email for collaboration opportunities at this time.
 
 ---
 
