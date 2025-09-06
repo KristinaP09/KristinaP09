@@ -135,7 +135,7 @@ I am open to global opportunities and will be available for new roles starting *
 - Some might think I just got lucky, but trust me, it’s years of hard work, creative problem-solving, and a serious amount of stubbornness.
 - I follow my own path and don’t give in to popular opinion or misleading influences.
 - I like to build on what I already know and make thoughtful adjustments to better suit new ideas, challenges, and situations as they arise.
-- If you want to connect, please note that none of my email addresses are currently active. Therefore, I am not available via email for collaboration opportunities at this time.
+- If you want to connect, please note that none of my personal email addresses are currently active. However, you can reach me for collaboration opportunities at my institutional email: kristinapestaria.sinaga@isti.cnr.it
 
 ---
 
