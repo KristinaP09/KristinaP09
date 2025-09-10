@@ -37,7 +37,7 @@
 
 - Lifelong learner, driven by curiosity—not by applause.
 - Dodging all the fake talent shows—including corporate drama and those sneaky invisible clown squads—because real skill doesn’t need a spotlight.
-- 「 ✦ 𝐍𝐚𝐦𝐞 ✦ 」Chinese name (given by CYCU): 許蒂娜 (Xǔ dì nà)  
+
 Past web traces:  
 [Old Site #1](https://patternkps.github.io) | [Old Site #2](https://kpnaga08.github.io/about/)  
 For recent updates, you're already in the right place.
