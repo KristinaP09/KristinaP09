@@ -47,6 +47,7 @@ For recent updates | [Site #3](https://kristinap09.github.io/)
 ## 🔭 Research
 
 - Clustering & Multi-View Learning  
+- Hybrid (Supervised/dee learning)
 - Federated & Distributed Learning  
 - Edge AI & Cyber-Physical Systems  
 - Pattern Recognition  
