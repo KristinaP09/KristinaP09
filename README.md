@@ -67,6 +67,8 @@ For recent updates | [Site #3](https://kristinap09.github.io/)
 ### Proficiency
 
 - Machine Learning  
+- Deep Learning
+- Supervised & Unsupervised Learning 
 - Data Analysis  
 - Edge AI  
 - Pattern Recognition  
