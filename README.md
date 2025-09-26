@@ -40,7 +40,7 @@
 
 Past web traces:  
 [Old Site #1](https://patternkps.github.io) | [Old Site #2](https://kpnaga08.github.io/about/)  
-For recent updates, you're already in the right place.
+For recent updates | [Site #3](https://kristinap09.github.io/)
 
 ---
 
@@ -101,7 +101,7 @@ For recent updates, you're already in the right place.
 ## 🌍 Availability
 
 I am open to global opportunities and will be available for new roles starting **October 2025**. If you are looking for expertise in machine learning, edge AI, or distributed systems, feel free to connect!  
-> **For organizations interested in learning more about my background, please refer to my [Resume](https://kristinap09.github.io/pdf/cv/index.html) & [CV](https://kristinap09.github.io/pdf/my_cv.pdf).**
+> **Note:** Contact me via my personal email: **[ndkristinaps25@gmail.com](mailto:ndkristinaps25@gmail.com)**.
 
 ---
 
@@ -130,7 +130,6 @@ I am open to global opportunities and will be available for new roles starting *
 - Some might think I just got lucky, but trust me, it’s years of hard work, creative problem-solving, and a serious amount of stubbornness.  
 - I follow my own path and don’t give in to popular opinion or misleading influences.  
 - I like to build on what I already know and make thoughtful adjustments to better suit new ideas, challenges, and situations as they arise.  
-- If you want to connect, please note that none of my personal email addresses are currently active. However, you can reach me for collaboration opportunities at my institutional email: **[kristinapestaria.sinaga@isti.cnr.it](mailto:kristinapestaria.sinaga@isti.cnr.it)**  
 
 ---
 
@@ -139,22 +138,6 @@ I am open to global opportunities and will be available for new roles starting *
 - Documenting what others only dare to whisper  
 - Thriving with structure  
 - Building solutions, not noise  
-
-**Guest Editor Role:**  
-I’m co-editing a Special Issue on <mark>**Clustered Federated Learning for Networks** in the Cybersecurity section of *Future Internet*</mark> with Prof. Miin-Shen Yang ([website](https://msyang3.wixsite.com/msyang/english)).  
-We welcome innovative submissions on:  
-- Clustering algorithms  
-- Privacy & security  
-- System optimization  
-- Network applications  
-- Performance analysis  
-
-📅 **Deadline:** 20 August 2026  
-👉 Details & submissions: [Special Issue](https://www.mdpi.com/journal/futureinternet/special_issues/1UP93P6G94)  
-
-<p align="center">
-  <img src="https://kristinap09.github.io/assets/images/MDPI-FI.jpg" alt="Special Issue Cover" width="600" />
-</p>
 
 ---
 
