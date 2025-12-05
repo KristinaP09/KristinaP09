@@ -104,7 +104,7 @@ For recent updates | [Site #3](https://kristinap09.github.io/)
 ## 🌍 Availability
 
 I am open to global opportunities and will be available for new roles starting **October 2025**. If you are looking for expertise in machine learning, edge AI, or distributed systems, feel free to connect!  
-> **Note:** Contact me via my personal email: **[ndkristinaps25@gmail.com](mailto:ndkristinaps25@gmail.com)**.
+> **Note:** Contact me via my personal email: **[kristinasinaga41@gmail.com](mailto:kristinasinaga41@gmail.com)**.
 
 ---
 
