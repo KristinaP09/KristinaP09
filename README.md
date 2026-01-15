@@ -16,7 +16,7 @@
 
 ---
 
-> **Thriving beyond noise. I write code, not circus scripts. Subtle where it counts, and allergic to performative nonsense.**
+> **A mathematician who's also a bit of a sarcastic snob. I'm not interested in nonsense. Please leave before trying to understand or change my unique qualities. The exit door is wide open.**
 
 ---
 
@@ -108,46 +108,20 @@ I am open to global opportunities and will be available for new roles starting *
 
 ---
 
-## 🎯 Personal Philosophy (Now with extra clarity)
-
-<div align="center">
-<strong>Welcome to my GitHub—a safe zone for logic, clarity, and mentally independent code.</strong>
-</div>
-
-**I don't ship:**  
-- Drama-as-a-Service (DaaS)  
-- Emotionally noisy systems  
-- Invisible influence tactics  
-- Projects that hum in the background and think they're sentient  
-
-**I do build:**  
-- Robust machine learning systems  
-- Resilient ideas  
-- Clean documentation—because real intelligence doesn't hide behind confusion  
-
----
-
 ## 🌟 What Sets Me Apart
 
-- Even when resources are limited (often not by my choice), I always find a way out—never getting trapped in the super-bored circles of "org" life.  
-- Some might think I just got lucky, but trust me, it’s years of hard work, creative problem-solving, and a serious amount of stubbornness.  
-- I follow my own path and don’t give in to popular opinion or misleading influences.  
-- I like to build on what I already know and make thoughtful adjustments to better suit new ideas, challenges, and situations as they arise.  
+- Short on resources? That's nonsense! There are always ways to get around. 
+- I'm not one to believe in luck. I'm just putting in the work. 
+- I do my own thing and don't let the crowd sway me or get me to go down the wrong path. Don't like it? Hey, just a heads-up: the exit door is wide open. 
+ 
 
 ---
 
 ## 🛡️ Current Status  
 
-- Documenting what others only dare to whisper  
-- Thriving with structure  
-- Building solutions, not noise  
+- Building something great  
+- Getting my thing done  
 
 ---
 
-## ☕ Fun Fact
-
-I write code, not circus acts—logic’s my jam; drama’s not on the playlist. So if you come for small talk, prepare to be debugged!
-
----
-
-<p align="center"><em>"They monitor. I document. They hum. I code."</em></p>
+<p align="center"><em>"If you're full of nonsense, please leave."</em></p>
