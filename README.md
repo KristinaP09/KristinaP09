@@ -1,127 +1,172 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0F6351&random=false&width=435&lines=Hi%20there!;%20I%20am%20Kristina%20P.%20Sinaga&center=true&size=27">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Expert-green" />
-  <img src="https://img.shields.io/badge/Edge%20AI-Enthusiast-blue" />
-  <img src="https://img.shields.io/badge/Status-Documenting-informational" />
-</p>
+<!-- Animated header -->
 
-<p align="center">
-  <a href="https://kristinap09.github.io/pdf/cv/index.html"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"></a>
-  <a href="https://kristinap09.github.io/pdf/my_cv.pdf"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV"></a>
-  <a href="https://github.com/kristinap09"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&color=A8C5DA&random=false&width=500&lines=Kristina+P.+Sinaga;Mathematician+%26+Machine+Learning+Researcher;Edge+AI+%7C+Distributed+Systems+%7C+Pattern+Recognition&center=true&size=22&pause=1200">
 
----
+<br/>
 
-> **A mathematician who's also a bit of a sarcastic snob. I'm not interested in nonsense. Please leave before trying to understand or change my unique qualities. The exit door is wide open.**
+<!-- Status badges — refined palette -->
 
----
+<img src="https://img.shields.io/badge/Machine%20Learning-Researcher-1B3A4B?style=flat-square&labelColor=0D2233&color=2E6B8A" />
+&nbsp;
+<img src="https://img.shields.io/badge/Edge%20AI-Specialist-1B3A4B?style=flat-square&labelColor=0D2233&color=2E6B8A" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-1B3A4B?style=flat-square&labelColor=0D2233&color=3A8F6F" />
 
-## 📚 Table of Contents
-- [👤 About Me](#-about-me)
-- [🔭 Research](#-research)
-- [🛠️ Skills](#%EF%B8%8F-skills)
-- [📜 Certifications](#-certifications)
-- [🌍 Availability](#-availability)
-- [🎯 Personal Philosophy](#-personal-philosophy-now-with-extra-clarity)
-- [🌟 What Sets Me Apart](#-what-sets-me-apart)
-- [🛡️ Current Status](#%EF%B8%8F-current-status)
-- [☕ Fun Fact](#-fun-fact)
+<br/><br/>
 
----
+<!-- Navigation links -->
+
+<a href="https://kristinap09.github.io/pdf/cv/index.html">
+  <img src="https://img.shields.io/badge/▸%20Portfolio-0D2233?style=for-the-badge&logoColor=A8C5DA" />
+</a>
+&nbsp;
+<a href="https://kristinap09.github.io/pdf/my_cv.pdf">
+  <img src="https://img.shields.io/badge/▸%20Curriculum%20Vitae-0D2233?style=for-the-badge&logoColor=A8C5DA" />
+</a>
+&nbsp;
+<a href="https://github.com/kristinap09">
+  <img src="https://img.shields.io/badge/▸%20GitHub-0D2233?style=for-the-badge&logo=github&logoColor=A8C5DA" />
+</a>
+
+</div>
+
+-----
+
+<div align="center">
+<sub><i>
+"Mathematics is not about numbers, equations, or algorithms — it is about understanding."
+</i></sub>
+</div>
+
+-----
 
 ## 👤 About Me
 
-- Lifelong learner, driven by curiosity—not by applause.
-- Dodging all the fake talent shows—including corporate drama and those sneaky invisible clown squads—because real skill doesn’t need a spotlight.
+I am a mathematician and machine learning researcher with a focus on principled, rigorous approaches to artificial intelligence. My work sits at the intersection of theoretical foundations and practical deployment — from clustering algorithms to distributed inference at the edge.
 
-Past web traces:  
-[Old Site #1](https://patternkps.github.io) | [Old Site #2](https://kpnaga08.github.io/about/)  
-For recent updates | [Site #3](https://kristinap09.github.io/)
+I am driven by intellectual curiosity and a commitment to depth over breadth. I pursue problems that are genuinely difficult, and I value precision, independence, and substance in all of my work.
 
----
+<sub>Previous web presence:  
+[Site v1](https://patternkps.github.io)  | 
+[Site v2](https://kpnaga08.github.io/about/)  | 
+[Current](https://kristinap09.github.io/)
+</sub>
 
-## 🔭 Research
+-----
 
-- Clustering & Multi-View Learning  
-- Hybrid (Supervised/Deep learning)
-- Federated & Distributed Learning  
-- Edge AI & Cyber-Physical Systems  
-- Pattern Recognition  
+## 🔭 Research Interests
 
----
+<table>
+  <tr>
+    <td><b>🧩 Clustering & Multi-View Learning</b></td>
+    <td>Developing robust algorithms for unsupervised structure discovery across heterogeneous data representations.</td>
+  </tr>
+  <tr>
+    <td><b>🤝 Hybrid Learning Architectures</b></td>
+    <td>Bridging classical supervised methods with modern deep learning pipelines for improved generalization.</td>
+  </tr>
+  <tr>
+    <td><b>🌐 Federated & Distributed Learning</b></td>
+    <td>Privacy-preserving model training across decentralized nodes with communication constraints.</td>
+  </tr>
+  <tr>
+    <td><b>⚡ Edge AI & Cyber-Physical Systems</b></td>
+    <td>Deploying intelligent inference in resource-constrained, real-time environments.</td>
+  </tr>
+  <tr>
+    <td><b>🔍 Pattern Recognition</b></td>
+    <td>Statistical and geometric approaches to identifying structure in high-dimensional data.</td>
+  </tr>
+</table>
 
-## 🛠️ Skills
+-----
 
-### Programming Languages & Tools
+## 🛠️ Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)  
+### Languages & Frameworks
 
-### Proficiency
+<p>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
 
-- Machine Learning  
-- Deep Learning
-- Supervised & Unsupervised Learning 
-- Data Analysis  
-- Edge AI  
-- Pattern Recognition  
+### Areas of Proficiency
 
----
+|Domain                 |Competencies                                                                          |
+|-----------------------|--------------------------------------------------------------------------------------|
+|**Machine Learning**   |Supervised, unsupervised, and semi-supervised learning; model evaluation and selection|
+|**Deep Learning**      |Neural architecture design, optimization, regularization                              |
+|**Data Analysis**      |Statistical modeling, dimensionality reduction, visualization                         |
+|**Edge AI**            |Model compression, on-device inference, latency-aware deployment                      |
+|**Pattern Recognition**|Feature engineering, classification, anomaly detection                                |
+
+-----
 
 ## 📜 Certifications
 
 <table>
   <tr>
-    <th>Name</th>
-    <th>Completed</th>
-    <th>URL</th>
-    <th>Organization</th>
+    <th>Certification</th>
+    <th>Issued</th>
+    <th>Credential</th>
+    <th>Issuer</th>
   </tr>
   <tr>
     <td>Machine Learning Specialization</td>
-    <td>OCT 26, 2022</td>
-    <td><a href="https://coursera.org/share/5bdbda3f14262b22782bb153174f8660">Certificate</a></td>
-    <td>Coursera</td>
+    <td>Oct 2022</td>
+    <td><a href="https://coursera.org/share/5bdbda3f14262b22782bb153174f8660">View Certificate ↗</a></td>
+    <td>Coursera · DeepLearning.AI</td>
   </tr>
   <tr>
-    <td>DeepLearning.AI TensorFlow Developer Specialization</td>
-    <td>NOV 16, 2022</td>
-    <td><a href="https://coursera.org/share/b9925d646cd202d41c5fb14df2b96a8d">Certificate</a></td>
-    <td>Coursera</td>
+    <td>TensorFlow Developer Specialization</td>
+    <td>Nov 2022</td>
+    <td><a href="https://coursera.org/share/b9925d646cd202d41c5fb14df2b96a8d">View Certificate ↗</a></td>
+    <td>Coursera · DeepLearning.AI</td>
   </tr>
 </table>
 
----
+-----
 
 ## 🌍 Availability
 
-I am open to global opportunities and will be available for new roles starting **October 2025**. If you are looking for expertise in machine learning, edge AI, or distributed systems, feel free to connect!  
-> **Note:** Contact me via my personal email: **[kristinasinaga41@gmail.com](mailto:kristinasinaga41@gmail.com)**.
+I am open to global opportunities and actively seeking roles in machine learning research, edge AI systems, and distributed computing. I bring strong mathematical foundations, hands-on implementation experience, and a track record of independent, self-directed work.
 
----
+> 📬 **Contact:** [kristinasinaga41@gmail.com](mailto:kristinasinaga41@gmail.com)
+
+-----
 
 ## 🌟 What Sets Me Apart
 
-- Short on resources? That's nonsense! There are always ways to get around. 
-- I'm not one to believe in luck. I'm just putting in the work. 
-- I do my own thing and don't let the crowd sway me or get me to go down the wrong path. Don't like it? Hey, just a heads-up: the exit door is wide open. 
- 
+- **Mathematical rigour:** My grounding in mathematics informs how I approach model design, evaluation, and failure analysis — not just implementation.
+- **Independent thinking:** I do not follow trends for their own sake. I assess problems on their merits and pursue solutions that are defensible and well-reasoned.
+- **Resourcefulness:** Constraints — computational, temporal, or institutional — are design parameters, not blockers. I work effectively within them.
+- **Depth of focus:** I prioritize mastery over breadth, and I hold myself to high standards in everything I produce.
 
----
+-----
 
-## 🛡️ Current Status  
+## 🛡️ Current Status
 
-- Building something great  
-- Getting my thing done  
+```
+  ■ Advancing research in distributed and federated learning
+  ■ Preparing for new professional engagements (available Oct 2025)
+```
 
----
+-----
 
-<p align="center"><em>"If you're full of nonsense, please leave."</em></p>
+<div align="center">
+<br/>
+<img src="https://img.shields.io/badge/-Open%20to%20Collaboration-0D2233?style=flat-square&color=2E6B8A" />
+&nbsp;
+<img src="https://img.shields.io/badge/-Research%20Minded-0D2233?style=flat-square&color=2E6B8A" />
+&nbsp;
+<img src="https://img.shields.io/badge/-Precision%20Driven-0D2233?style=flat-square&color=3A8F6F" />
+<br/><br/>
+<sub><i>"Rigour is not a constraint on creativity — it is its foundation."</i></sub>
+</div>
