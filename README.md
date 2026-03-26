@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- Animated header -->
@@ -35,18 +36,16 @@
 -----
 
 <div align="center">
-<sub><i>
-"Mathematics is not about numbers, equations, or algorithms — it is about understanding."
-</i></sub>
+<sub><i>"Mathematics is not about numbers, equations, or algorithms — it is about understanding."</i></sub>
 </div>
 
------
+---
 
-## 👤 About Me
+👤 About Me
 
-I am a mathematician and machine learning researcher with a focus on principled, rigorous approaches to artificial intelligence. My work sits at the intersection of theoretical foundations and practical deployment — from clustering algorithms to distributed inference at the edge.
+I am a mathematician and machine learning researcher passionate about principled, rigorous approaches to artificial intelligence. My work lies at the intersection of theoretical foundations and practical deployment — from clustering algorithms to distributed inference at the edge.
 
-I am driven by intellectual curiosity and a commitment to depth over breadth. I pursue problems that are genuinely difficult, and I value precision, independence, and substance in all of my work.
+Driven by intellectual curiosity, I pursue genuinely difficult problems with a focus on precision, independence, and depth.
 
 <sub>Previous web presence:  
 [Site v1](https://patternkps.github.io)  | 
@@ -54,7 +53,7 @@ I am driven by intellectual curiosity and a commitment to depth over breadth. I 
 [Current](https://kristinap09.github.io/)
 </sub>
 
------
+---
 
 ## 🔭 Research Interests
 
@@ -134,39 +133,41 @@ I am driven by intellectual curiosity and a commitment to depth over breadth. I 
 
 -----
 
-## 🌍 Availability
 
-I am open to global opportunities and actively seeking roles in machine learning research, edge AI systems, and distributed computing. I bring strong mathematical foundations, hands-on implementation experience, and a track record of independent, self-directed work.
+🌍 Availability
 
-> 📬 **Contact:** [kristinasinaga41@gmail.com](mailto:kristinasinaga41@gmail.com)
+I am open to global opportunities in machine learning research, edge AI systems, and distributed computing. My work combines strong mathematical foundations with practical, hands-on implementation.
 
------
+> 📬 Contact: kristinasinaga41@gmail.com
 
-## 🌟 What Sets Me Apart
+---
 
-- **Mathematical rigour:** My grounding in mathematics informs how I approach model design, evaluation, and failure analysis — not just implementation.
-- **Independent thinking:** I do not follow trends for their own sake. I assess problems on their merits and pursue solutions that are defensible and well-reasoned.
-- **Resourcefulness:** Constraints — computational, temporal, or institutional — are design parameters, not blockers. I work effectively within them.
-- **Depth of focus:** I prioritize mastery over breadth, and I hold myself to high standards in everything I produce.
+🌟 What Sets Me Apart
 
------
+- Mathematical rigour: Analysing and designing models with precision beyond implementation.
+- Independent thinking: Assessing problems on their merits rather than following trends.
+- Resourcefulness: Treating constraints as design parameters, not obstacles.
+- Depth of focus: Prioritising mastery and high standards in all output.
+
+----
 
 ## 🛡️ Current Status
 
 ```
   ■ Advancing research in distributed and federated learning
-  ■ Preparing for new professional engagements (available Oct 2025)
+  ■ Preparing for new professional engagements (actively seeking new opportunities)
+
 ```
 
 -----
 
 <div align="center">
-<br/>
-<img src="https://img.shields.io/badge/-Open%20to%20Collaboration-0D2233?style=flat-square&color=2E6B8A" />
+<img src="https://img.shields.io/badge/-Open%20to%20Collaboration-0D2233?style=flat-square&color=2E6B8A"/>
 &nbsp;
-<img src="https://img.shields.io/badge/-Research%20Minded-0D2233?style=flat-square&color=2E6B8A" />
+<img src="https://img.shields.io/badge/-Research%20Minded-0D2233?style=flat-square&color=2E6B8A"/>
 &nbsp;
-<img src="https://img.shields.io/badge/-Precision%20Driven-0D2233?style=flat-square&color=3A8F6F" />
+<img src="https://img.shields.io/badge/-Precision%20Driven-0D2233?style=flat-square&color=3A8F6F"/>
+
 <br/><br/>
 <sub><i>"Rigour is not a constraint on creativity — it is its foundation."</i></sub>
 </div>
